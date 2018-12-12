@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "839016300025",
+    "firebase_url": "https://localization-eab65.firebaseio.com",
+    "project_id": "localization-eab65",
+    "storage_bucket": "localization-eab65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839016300025:android:67ff518c2d33d339",
+        "android_client_info": {
+          "package_name": "com.example.avsanthoshkumar.locationuploader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839016300025-da29e6l4hmgbsdid26oqnt3s510i6gkp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.avsanthoshkumar.locationuploader",
+            "certificate_hash": "5efb50b873e6c64a21a60ebbf431656bca518958"
+          }
+        },
+        {
+          "client_id": "839016300025-952tm4adi7r5vonnqlkdou2ud9gvqnfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBry_aT4M9b7kZv3QAe9jSkvCbbmVrte9s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839016300025-952tm4adi7r5vonnqlkdou2ud9gvqnfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
